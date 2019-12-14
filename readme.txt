@@ -1,9 +1,7 @@
 ﻿git is  software gpl
-Git is  GPL.
+Git GPL.
 34
 sdsd k
 大
-sddssddssd
-s
-手机端
+sddssd
 
