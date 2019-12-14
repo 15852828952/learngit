@@ -1,6 +1,7 @@
 ﻿git is free software gpl
-Git is free softwae distributed under the GPL.
+Git is  GPL.
 34
 sdsd k
 大苏打实打实的
 sddssddssd
+s
