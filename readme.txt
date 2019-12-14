@@ -1,7 +1,3 @@
-git is free software gpl
+﻿git is free software gpl
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick AND simple.是是是1
-是是是是是是是是是是是是是是是是是是是是是
-方法我去问问
+34
